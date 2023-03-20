@@ -1,5 +1,5 @@
 # ntopng-elephantflowblock
-Block elephant flows in Arista switches
+Block elephant flows detected by NTOPNG in Arista switches
 
 This is just a couple of simple scripts to manage the automatic blocking and unblocking of elephant flows detected on your network via NTOPNG
 
