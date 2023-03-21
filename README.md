@@ -1,5 +1,5 @@
 # ntopng-elephantflowblock
-Block elephant flows detected by NTOPNG in Arista switches
+Block elephant flows detected by NTOPNG in Arista security switches - specifically the 7150 in TapAgg mode
 
 This is just a couple of simple scripts to manage the automatic blocking and unblocking of elephant flows detected on your network via NTOPNG, monitors the NTOPNG output log for elephant flows and cuts them off so that IDS does not need to waste CPU cycles on uninteresting network flows
 
